@@ -1,0 +1,79 @@
+div{
+    font: size 30px;
+    border:rgb(0, 0, 0)solid;
+    border-width:10px;
+    border: radius 20px;
+    padding:50px;
+    background-color: rgb(255, 255, 255);
+}
+
+.nivel1{
+    display:flex;
+    justify-content: flex-end;
+
+}
+.nivel2{
+    display: flex;
+    justify-content:center
+    }
+    
+
+
+
+.nivel3{
+    display: flex;
+    justify-content: space-around;}
+
+.nivel4{
+    display: flex;
+justify-content: space-between;
+}
+
+.nivel5{
+    display:flex;
+    align-items:flex-end;
+}
+.nivel6{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.nivel7{
+    display:flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.nivel8{
+    display:flex;
+    flex-direction: row-reverse;
+}
+
+.nivel9{
+    display:flex;
+    flex-direction: column;
+}
+
+.nivel10{
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.nivel11{
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.nivel12{
+    display:flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+
+.nivel13{
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    
+    align-items: flex-end;}
